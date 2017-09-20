@@ -1,0 +1,4 @@
+building tools=3000
+building tools=2000
+building tools=1000
+shelter equipment=5000
